@@ -119,7 +119,7 @@
             dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.WindowText;
             this.dgvPhoneNumber.RowsDefaultCellStyle = dataGridViewCellStyle8;
             this.dgvPhoneNumber.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvPhoneNumber.Size = new System.Drawing.Size(856, 244);
+            this.dgvPhoneNumber.Size = new System.Drawing.Size(856, 231);
             this.dgvPhoneNumber.TabIndex = 12;
             this.dgvPhoneNumber.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPhoneNumber_CellClick);
             this.dgvPhoneNumber.SelectionChanged += new System.EventHandler(this.dgvPhoneNumber_SelectionChanged);
@@ -179,7 +179,7 @@
             this.btnAjouter.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAjouter.ForeColor = System.Drawing.Color.Black;
             this.btnAjouter.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAjouter.Location = new System.Drawing.Point(624, 394);
+            this.btnAjouter.Location = new System.Drawing.Point(624, 381);
             this.btnAjouter.Name = "btnAjouter";
             this.btnAjouter.Size = new System.Drawing.Size(50, 26);
             this.btnAjouter.TabIndex = 144;
@@ -195,7 +195,7 @@
             this.btnSupp.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSupp.ForeColor = System.Drawing.Color.Black;
             this.btnSupp.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSupp.Location = new System.Drawing.Point(808, 394);
+            this.btnSupp.Location = new System.Drawing.Point(808, 381);
             this.btnSupp.Name = "btnSupp";
             this.btnSupp.Size = new System.Drawing.Size(63, 26);
             this.btnSupp.TabIndex = 143;
@@ -211,7 +211,7 @@
             this.btnCharger.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCharger.ForeColor = System.Drawing.Color.Black;
             this.btnCharger.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCharger.Location = new System.Drawing.Point(554, 394);
+            this.btnCharger.Location = new System.Drawing.Point(554, 381);
             this.btnCharger.Name = "btnCharger";
             this.btnCharger.Size = new System.Drawing.Size(64, 26);
             this.btnCharger.TabIndex = 145;
@@ -227,7 +227,7 @@
             this.btnNewArriv.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNewArriv.ForeColor = System.Drawing.Color.Black;
             this.btnNewArriv.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNewArriv.Location = new System.Drawing.Point(680, 394);
+            this.btnNewArriv.Location = new System.Drawing.Point(680, 381);
             this.btnNewArriv.Name = "btnNewArriv";
             this.btnNewArriv.Size = new System.Drawing.Size(61, 26);
             this.btnNewArriv.TabIndex = 141;
@@ -243,7 +243,7 @@
             this.btnModifier.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModifier.ForeColor = System.Drawing.Color.Black;
             this.btnModifier.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnModifier.Location = new System.Drawing.Point(747, 394);
+            this.btnModifier.Location = new System.Drawing.Point(747, 381);
             this.btnModifier.Name = "btnModifier";
             this.btnModifier.Size = new System.Drawing.Size(55, 26);
             this.btnModifier.TabIndex = 142;
@@ -290,7 +290,7 @@
             this.btnRecupNumber.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRecupNumber.ForeColor = System.Drawing.Color.Black;
             this.btnRecupNumber.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnRecupNumber.Location = new System.Drawing.Point(433, 394);
+            this.btnRecupNumber.Location = new System.Drawing.Point(433, 381);
             this.btnRecupNumber.Name = "btnRecupNumber";
             this.btnRecupNumber.Size = new System.Drawing.Size(115, 26);
             this.btnRecupNumber.TabIndex = 150;
@@ -361,7 +361,7 @@
             // 
             this.splitter1.Location = new System.Drawing.Point(0, 0);
             this.splitter1.Name = "splitter1";
-            this.splitter1.Size = new System.Drawing.Size(3, 459);
+            this.splitter1.Size = new System.Drawing.Size(3, 446);
             this.splitter1.TabIndex = 152;
             this.splitter1.TabStop = false;
             // 
@@ -372,7 +372,7 @@
             this.txtSearch.BackColor = System.Drawing.SystemColors.MenuBar;
             this.txtSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSearch.Location = new System.Drawing.Point(83, 394);
+            this.txtSearch.Location = new System.Drawing.Point(83, 381);
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(298, 22);
             this.txtSearch.TabIndex = 155;
@@ -382,7 +382,7 @@
             // 
             this.lblSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblSearch.AutoSize = true;
-            this.lblSearch.Location = new System.Drawing.Point(12, 398);
+            this.lblSearch.Location = new System.Drawing.Point(12, 385);
             this.lblSearch.Name = "lblSearch";
             this.lblSearch.Size = new System.Drawing.Size(66, 13);
             this.lblSearch.TabIndex = 156;
@@ -393,7 +393,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(883, 459);
+            this.ClientSize = new System.Drawing.Size(883, 446);
             this.Controls.Add(this.txtNumero);
             this.Controls.Add(this.cboReseau);
             this.Controls.Add(this.lblNumber);
